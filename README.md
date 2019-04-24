@@ -1,5 +1,5 @@
-## Sampling strategy analysis
-# emudesgin
+# Sampling strategy analysis
+### emudesgin
 Optimal Emulator Parameter Sampling Strategy for Cosmological Simulations
 
 Nesar Ramachandra, Jia Liu
