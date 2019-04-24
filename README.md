@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-Sampling strategy analysis
-=======
+## Sampling strategy analysis
 # emudesgin
 Optimal Emulator Parameter Sampling Strategy for Cosmological Simulations
 
