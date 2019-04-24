@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-Sampling strategy analysis
-=======
-# emudesgin
+# Sampling strategy analysis
+## emudesgin
 Optimal Emulator Parameter Sampling Strategy for Cosmological Simulations
 
 Nesar Ramachandra, Jia Liu
@@ -12,6 +10,3 @@ Questions to answer:
 3. can the sampling optimized for observable A also good for observable B, or is there an optimal strategy to make this more universal? 
 
 https://docs.google.com/document/d/17ir5xZWHUAi5OVCyQLACpSlGTlmS6agBBRwloWAWtfw/edit
-
-
->>>>>>> 11381dec7094be568a4fff32e25460f5b2800a0e
